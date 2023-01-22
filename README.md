@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um programa online para ajudar a acompanhar e controlar seus hábitos diários. O registro do dia segue o "today" (ou seja, a data de "hoje") e os dados são salvos utilizando o navegador como "Local Storage".
 
+- [Visite o projeto online:](https://clararb.github.io/nlw-setup/)
+
 ## 📱 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
